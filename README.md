@@ -11,10 +11,10 @@ Feel free to learn more about me [here](https://kenqgu.com/)!
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Experiment Reproducibility in PyTorch](https://kenqgu.com/experiment-reproducibility-in-pytorch/?utm_source=rss&utm_medium=rss&utm_campaign=experiment-reproducibility-in-pytorch)
-- [Terrace House Intro | UCLA Edition](https://kenqgu.com/terrace-house-intro-ucla-edition/?utm_source=rss&utm_medium=rss&utm_campaign=terrace-house-intro-ucla-edition)
 - [Classifying Asian Prejudice in Tweets during COVID-19 using Graph Convolutional Networks](https://kenqgu.com/classifying-asian-prejudice-in-tweets-during-covid-19-using-graph-convolutional-networks/?utm_source=rss&utm_medium=rss&utm_campaign=classifying-asian-prejudice-in-tweets-during-covid-19-using-graph-convolutional-networks)
 - [Text Classification With Graph Convolutional Networks](https://kenqgu.com/text-classification-with-graph-convolutional-networks/?utm_source=rss&utm_medium=rss&utm_campaign=text-classification-with-graph-convolutional-networks)
 - [Graph Neural Networks in Natural Language Processing | A Brief Overview](https://kenqgu.com/graph-neural-networks-in-natural-language-processing-a-brief-overview/?utm_source=rss&utm_medium=rss&utm_campaign=graph-neural-networks-in-natural-language-processing-a-brief-overview)
+- [My Undergraduate Research Experience at UCLA](https://kenqgu.com/my-undergraduate-research-experience-at-ucla/?utm_source=rss&utm_medium=rss&utm_campaign=my-undergraduate-research-experience-at-ucla)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
