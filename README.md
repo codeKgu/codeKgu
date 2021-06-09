@@ -1,11 +1,10 @@
 ### Hi there, I'm Ken 👋
-I am a recent graduate from the University of California, Los Angeles, originally from Vancouver, Canada. 
+I am an incoming PhD student at the University of Washington, originally from Vancouver, Canada.
 Feel free to learn more about me [here](https://kenqgu.com/)!
 
 - 🔭  I’m currently working on 
   * Applied research at [Georgian](https://georgianpartners.com/)
-  * Research in machine learning on graph structured data at the [Scalable Analytics Institute](https://scai.cs.ucla.edu/)
-- 📫  I'm reachable at [kengu13@ucla.edu](mailto:kengu13@ucla.edu)
+- 📫  I'm reachable at [kenqgu@cs.washington.edu](kenqgu@cs.washington.edu)
 
 
 ### 📕 Latest Blog Posts
