@@ -1,5 +1,5 @@
 ### Hi there, I'm Ken 👋
-I am an incoming PhD student at the University of Washington, originally from Vancouver, Canada.
+I am an incoming CS PhD student at the University of Washington, originally from Vancouver, Canada.
 Feel free to learn more about me [here](https://kenqgu.com/)!
 
 - 🔭  I’m currently working on 
