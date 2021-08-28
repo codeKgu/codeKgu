@@ -2,8 +2,8 @@
 I am a CS PhD student at the University of Washington, originally from Vancouver, Canada.
 Feel free to learn more about me [here](https://kenqgu.com/)!
 
-- 🔭  I’m currently working on 
-  * Applied research at [Georgian](https://georgianpartners.com/)
+<!-- - 🔭  I’m currently working on 
+  * Applied research at [Georgian](https://georgianpartners.com/) -->
 - 📫  I'm reachable at [kenqgu@cs.washington.edu](kenqgu@cs.washington.edu)
 
 
